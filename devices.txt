@@ -1,0 +1,5 @@
+HOSTNAME:IP:USERNAME:PASSWORD:ConfigFile
+Controller:192.168.40.124:admin:C1sc0@123:config_ctrlr.cfg
+AccessPoint:192.168.40.110:admin:C1sc0@123:config_ap.cfg
+Switch:192.168.40.91:admin:C1sc0@123:config_switch.cfg
+Server1:192.168.40.30:admin:C1sc0@123:firewall.conf
